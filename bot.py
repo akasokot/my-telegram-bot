@@ -11,7 +11,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Конфігурація
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'  # Заміни на свій токен
+TOKEN = '7811848391:AAHYkDMvpr58N7fpTVQK6KiNlFxyo2malSU'  # Заміни на свій токен
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text("Привіт!")  # Відповідь бота
