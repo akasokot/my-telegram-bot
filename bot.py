@@ -4,7 +4,7 @@ import random
 import time
 
 # Конфігурація
-TOKEN = 'AAHYkDMvpr58N7fpTVQK6KiNlFxyo2malSU'  # Заміни на свій токен
+TOKEN = '7811848391:AAHYkDMvpr58N7fpTVQK6KiNlFxyo2malSU'  # Заміни на свій токен
 gift_options = [0.0001, 0.1, 0.0002, 0.2, 0.5, 2]  # Варианти подарунків
 user_data = {}  # Зберігання даних користувачів
 
